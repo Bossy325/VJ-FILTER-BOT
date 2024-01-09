@@ -10,7 +10,7 @@ git+https://github.com/Joelkb/cinemagoer
 shortzy 
 datetime 
 pytz 
-aiohttp
+aiohttp==3.8.2
 
 #---master---# 
 #Telethroid==0.0.10 
@@ -55,7 +55,8 @@ pyshorteners
 pyromod
 colorama
 openai==0.25.0
+gunicorn==20.1.0
 
-
+Flask==2.2.2
 
   
